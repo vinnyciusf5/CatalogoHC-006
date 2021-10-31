@@ -45,3 +45,6 @@ input#retornarii{
     border: unset;
     font-size: 15px;
 }
+p#descricao{
+    text-align: justify
+}
