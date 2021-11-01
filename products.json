@@ -38,6 +38,16 @@
 
 		},
 		{
+			"name" : "Óleo Love Hot",
+			"price" : "15.00",
+			"options" : [
+				{ "Tamanho" : "35ml" },
+				{"Sabores" : "Morango, Menta, Uva, Cereja"}
+			],
+			"image" : "https://miess.vteximg.com.br/arquivos/ids/160903-1000-1000/00076_1.jpg?v=637179116221570000",
+			"description" : "O Love Hotlubrificante em líquido e excitante com sabor, deixando suas noites incríveis, instigando e apimentando a relação. O Óleo Beijávelé indicado para massagem corporal deixando uma ótima sensação, sexo oral, vaginal e anal, tem efeito lubrificante aquecendo a região aplicada."
+		},
+		{
 			"name" : "Lub Intt (Morango)",
 			"price" : "25.00",
 			"options" : [
